@@ -1,15 +1,4 @@
-*MNIST-classification-lr-gradio*
-**Mnist classification using logistic regression and displayed using gradio.**
----
-title: MNIST Classification Using Multinomial Logistic L1
-emoji: 💻
-colorFrom: purple
-colorTo: red
-sdk: gradio
-sdk_version: 3.24.1
-app_file: app.py
-pinned: false
-license: mit
----
+# MNIST-classification-lr-gradio
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Mnist classification using logistic regression and displayed using gradio.
+
