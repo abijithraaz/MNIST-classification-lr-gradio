@@ -10,9 +10,7 @@ import gradio as gr
 
 
 # Load data from https://www.openml.org/d/554
-X, y = fetch_openml(
-    "mnist_784", version=1, return_X_y=True, as_frame=False, parser="pandas"
-)
+X, y = fetch_openml("mnist_784", version=1, return_X_y=True, as_frame=False, parser="pandas")
 
 print("Data loaded")
 random_state = check_random_state(0)
