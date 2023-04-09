@@ -1,3 +1,5 @@
+*MNIST-classification-lr-gradio*
+**Mnist classification using logistic regression and displayed using gradio.**
 ---
 title: MNIST Classification Using Multinomial Logistic L1
 emoji: 💻
